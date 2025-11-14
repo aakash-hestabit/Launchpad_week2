@@ -20,3 +20,15 @@ On day 1, I got hands-on with semantic HTML5, learning to structure web pages us
       <img src="image-3.png" alt="preview" width="50%">
       <figcaption>flexbox for smaller screens </figcaption>
     </figure>
+    <figure>
+      <img src="image-4.png" alt="preview" width="50%">
+      <figcaption>grid for larger screens </figcaption>
+    </figure>
+    <figure>
+      <img src="image-5.png" alt="preview" width="50%">
+      <figcaption>grid for medium screens </figcaption>
+    </figure>
+    <figure>
+      <img src="image-6.png" alt="preview" width="50%">
+      <figcaption>grid for smaller screens </figcaption>
+    </figure>
