@@ -23,7 +23,23 @@ On day 1, I got hands-on with semantic HTML5, learning to structure web pages us
 
 ## Day 3
 On day 3, I learned JavaScript fundamentals, working with `let` and `const`, arrow functions, and manipulating arrays and objects using methods like `map`, `filter`, and `reduce`. I practiced these concepts through mini-challenges that strengthened my problem-solving skills. I also explored DOM manipulation by building components such as a navbar toggle and dropdown FAQs. Additionally, I used event listeners to create features like a counter and key-based interactions. Als, I built an interactive FAQ accordion where clicking each question expands or collapses the answer.
-![everything is collapsed](image-7.png)
-![now the FAQs are visible and onclicking the specific question the related answer will be visible ](image-8.png)
-![the answers are visible on dropdown](image-9.png)
-![the ooverflowed content is magaed using scrolling](image-10.png)
+| Initial State | Expanded FAQ Section |
+|---------------|--------------------|
+| ![](image-7.png) | ![](image-8.png) |
+
+| Opening Specific Answers | Handling Overflow using Scrolling |
+|-------------------------|-----------------|
+| ![](image-9.png) | ![](image-10.png) |
+
+## Day 4
+On this day, I focused on modular JavaScript functions and explored LocalStorage for persisting data across page reloads. I practiced debugging using DevTools breakpoints and watch expressions and built custom JS utilities like debounce, throttle. As a hands-on project, I created a Todo app that persists tasks on refresh using LocalStorage. Additionally, I learned error handling with `try/catch` and implemented an error boundary folder to log errors systematically in `logs/errors.md`.
+
+## Todo App Project
+
+| Initial Loading (Tasks from LocalStorage) | Modal for Adding/Editing Tasks |
+|-----------------------------------------|-------------------------------|
+| ![](image-11.png) | ![](image-12.png) |
+
+| Responsive Modal | Fully Responsive Todo App |
+|-----------------|--------------------------|
+| ![](image-13.png) | ![](image-14.png) |
